@@ -1,6 +1,7 @@
 ## Hi there 👋
-**I am a bud prepared to Grow🌱**
-...
+**I am a bud prepared to Grow🌱**...
+- Currently don't have much to show but i will soon
+
 <!--
 **Benji-demo/Benji-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
